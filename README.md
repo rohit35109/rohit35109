@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @rohit35109 [Rohit Kumar Dubey]
-- 👀 I’m interested in developing softwares for platforms such as Mobile, Desktop, and Web using blockchain, ML & AI. 
-- 🌱 I’m currently learning Python and Blockchain.
-- 💞️ I’m looking to collaborate on developing REST API using NestJS and also would love to be involved in projects related to Blockchain & ML.
+- 👋 Hi, I’m Rohit Dubey
+- ⏰️ With 10+ years of experience as a Javascript Developer (Typescript, React, Angular, NodeJS, Azure, React Native, Ionic, PHP, Native Android)
+- 🚀 Working as Freelancer Software Developer, Building my side project HubNugget and i am a Tech Entrepreneur. 
+- 👀 I’m interested in developing softwares for platforms such as Web, Mobile, and Desktop. 
+- 💡 I'm very passionate about AI, IOT and working with large datasets.
+- 🌱 I’m currently learning Python and IOS Native Development.
+- 💞️ I’m looking to work with teams that give priority to people who are more solution oriented and not DSA passionates.
+- 📝 I love writing on tech and career related content. May be videos someday 😄
 - 📫 Reach me at reach@rohitkumardubey.com.
 
 <!---
