@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Dubey
-- ⏰️ With 10+ years of experience as a Javascript Developer (Typescript, React, Angular, NodeJS, Azure, React Native, Ionic, PHP, Native Android)
+- ⏰️ With 10+ years of experience as a Full-Stack Software Engineer (Typescript, React, Angular, NodeJS, Azure, React Native, Ionic, PHP, Native Android, Java)
 - 🚀 Working as Freelancer Software Developer, Building my side project HubNugget and i am a Tech Entrepreneur. 
 - 👀 I’m interested in developing softwares for platforms such as Web, Mobile, and Desktop. 
 - 💡 I'm very passionate about AI, IOT and working with large datasets.
